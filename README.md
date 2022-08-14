@@ -2,4 +2,4 @@
 
 ## Результат по ссылке ниже:
 
-[Моё резюме](https://ajjsan.github.io/Portfolio/)
+[Мой первый сайт на HTML/CSS](https://ajjsan.github.io/Portfolio/)
