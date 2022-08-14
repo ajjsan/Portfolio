@@ -34,6 +34,25 @@ h1, h2 {
     background-color: #fff;
 }
 
+.exctra {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 -5px;
+}
+
+#courses {
+    background: LightGreen;
+}
+
+#hobbies {
+    background: lightblue;
+}
+
+#courses, #hobbies {
+    flex-basis: 50%;
+    margin: 0 5px;
+}
+
 .info {
     display: flex;
 }
@@ -97,12 +116,12 @@ h1, h2 {
 
 /* Links & Buttons */
 a {
-    color: #929293;
+    color: #0f141e;;
     text-decoration: none;
 }
 
 a:hover {
-    color: #444;
+    color: orangered;
     text-decoration: underline;
 }
 
@@ -138,7 +157,6 @@ a:active {
 }
 
 .list li {
-    color: #86898f;
     margin-bottom: 10px;
 }
 
@@ -149,7 +167,7 @@ a:active {
 
 .link-list  li{
     margin-bottom: 10px;
-    border-bottom: 1px solid #ccc;
+    border-bottom: 1px solid #0f141e;
     padding-bottom: 5px;
 }
 

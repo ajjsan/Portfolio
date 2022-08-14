@@ -23,5 +23,13 @@
         margin-bottom: 10px;
     }
 
+    .exctra {
+        display: block;
+    }
+
+    .exctra #courses {
+        margin-bottom: 20px;
+    }
+
 
 }
