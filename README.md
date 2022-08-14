@@ -2,4 +2,4 @@
 
 ## Результат по ссылке ниже:
 
-[Моё резюме] (https://ajjsan.github.io/Portfolio/)
+[Моё резюме] {https://ajjsan.github.io/Portfolio/}
